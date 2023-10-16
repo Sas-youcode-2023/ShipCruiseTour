@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1590],{58736:function(n,u,r){(window.__NEXT_P=window.__NEXT_P||[]).push(["/workspaces",function(){return r(26955)}])},26955:function(n,u,r){"use strict";r.r(u);var e=r(11163),t=r.n(e),_=r(82383);u.default=function(){return t().replace(_.AW.TOPICS),null}}},function(n){n.O(0,[9774,2888,179],(function(){return u=58736,n(n.s=u);var u}));var u=n.O();_N_E=u}]);
+//# sourceMappingURL=workspaces-d1a12cec2ddcbf8e.js.map
